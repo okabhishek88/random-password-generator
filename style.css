@@ -1,0 +1,111 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: rgb(0, 0, 0);
+  font-family: "Open Sans", sans-serif;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.text {
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+}
+
+h2 {
+  color: rgb(0, 0, 0);
+  text-align: center;
+  margin-bottom: 0.5rem;
+}
+
+.fa-solid {
+  color: green;
+  font-size: 1.5rem;
+
+}
+
+.container {
+  background-color: white;
+  padding: 1rem;
+  width: 400px;
+  border-radius: 1rem;
+  max-width: 100%;
+}
+
+.result_container {
+  background-color: rgba(0, 0, 0);
+  width: 100%;
+  height: 2.25rem;
+  border-radius: 1rem;
+  display: flex;
+  position: relative;
+  margin: 0 auto;
+  align-items: center;
+  overflow: hidden;
+}
+
+.copy {
+  background-color: black;
+  color: white;
+  font-size: 1rem;
+  border: none;
+  padding: 0.5rem 0.75rem;
+  border-radius: 1rem;
+  position: absolute;
+  right: 0;
+}
+
+.copy:hover {
+  cursor: pointer;
+  color: rgba(0, 0, 0. 0.5);
+  background-color: rgba(211, 211, 211, 0.5);
+}
+
+.settings {
+  margin: 1rem;
+  overflow: hidden;
+}
+
+.setting {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.5rem;
+}
+
+.btn-large {
+  background-color: rgb(0, 0, 0);
+  color: white;
+  padding: 0.75rem;
+  border: none;
+  border-radius: 1rem;
+  display: block;
+  width: 100%;
+  margin: 0 auto;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.btn-large:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+  cursor: pointer;
+}
+
+#result {
+  display: block;
+  margin: 0 auto;
+  font-weight: bold;
+  color: white;
+}
+
+h4 {
+  color: white;
+  margin-bottom: 2rem;
+}
