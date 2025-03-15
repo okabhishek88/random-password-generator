@@ -1,4 +1,4 @@
-# Random Password Generator 🔑
+# 🚀 Random Password Generator 🔑
 
 ## Overview
 The **Random Password Generator** is a simple web app that generates strong, random passwords. The password length is customizable, and the app will always include uppercase letters, lowercase letters, numbers, and special symbols to ensure strong security.
@@ -27,7 +27,7 @@ The **Random Password Generator** is a simple web app that generates strong, ran
 
 ---
 
-## Live Demo
+## 🎯 Live Demo
 
 Check out the live demo of the **Random Password Generator** app!  
 Test out the password generation with different lengths.
@@ -36,7 +36,7 @@ Test out the password generation with different lengths.
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 
 Here are some screenshots of the **Random Password Generator** app in action:
 
